@@ -1,9 +1,11 @@
-# Obliviate :gem:
+# AlzCare
 **_You can close your eyes to reality but not to memories._**
 
-### Domain 
-      
-      -App Development
+## APP DEMO 
+
+
+   https://user-images.githubusercontent.com/78691639/150638603-6d010801-e469-4775-8930-5d2d83827368.mov
+
 ### Tech Stack 
 
       -Flutter:
@@ -96,7 +98,7 @@ https://user-images.githubusercontent.com/91636803/148514454-ad33acf1-25a9-41e1-
 
 **_3) Clone the repository._**
 
-        -git clone https://github.com/shamvi-05/Obliviate.git
+        -git clone https://github.com/basantiOP/AlzCare.git
 
 **_4) Open in Android studio using git version control._**
 
@@ -109,23 +111,8 @@ https://user-images.githubusercontent.com/91636803/148514454-ad33acf1-25a9-41e1-
 
 
 
-## APP DEMO 
-
-
-   https://user-images.githubusercontent.com/78691639/150638603-6d010801-e469-4775-8930-5d2d83827368.mov
-
-
-### [ App-Demonstration Link - Click Here for more info](https://youtu.be/zKJ_SAC2948)
 
 
 
-### Team-Duck Debuggers 🐤
- [**AIN FATIMA**](https://github.com/clary09)
-
-[**RIYA SINGH**](https://github.com/Riy-a)
-
-[**SHAMBHAVI SINGH**](https://github.com/shamvi-05)
 
 
-
-![Last commit Activity](https://img.shields.io/github/last-commit/clary09/Obliviate) 
